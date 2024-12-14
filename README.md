@@ -1,0 +1,1 @@
+Pagina web creada con PHP, HTML y Css, con conexión a base de datos de Github para administrar usuarios de tipo contratista, transportista y temporeros para la empresa INGINAS Silvoagropecuario de Linares de la región del maule
